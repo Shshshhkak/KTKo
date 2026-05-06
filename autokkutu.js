@@ -24,7 +24,7 @@
     // 설정 (DB URL은 GitHub에 업로드 후 수정)
     // ============================================================
     const CONFIG = {
-        DB_URL: 'https://raw.githubusercontent.com/YOUR_REPO/main/words_full.json',
+        DB_URL: 'https://raw.githubusercontent.com/Shshshhkak/KTKo/refs/heads/main/words_full.json',
         // 시작 딜레이 (ms) - 너무 빠르면 감지될 수 있음
         START_DELAY_MIN: 400,
         START_DELAY_MAX: 900,
